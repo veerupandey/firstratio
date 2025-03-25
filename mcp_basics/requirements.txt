@@ -1,0 +1,6 @@
+mcp[cli]
+python-dotenv
+yfinance
+langchain-mcp-adapters
+langchain-google-genai  
+langgraph
