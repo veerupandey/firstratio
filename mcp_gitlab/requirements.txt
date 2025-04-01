@@ -1,0 +1,15 @@
+# Core dependencies
+python-dotenv
+python-gitlab
+gitpython
+omegaconf
+
+# MCP
+mcp
+
+# OpenAI integration
+openai
+azure-ai-inference
+
+# Agent
+agno
